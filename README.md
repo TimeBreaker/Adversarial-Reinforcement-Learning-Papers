@@ -15,3 +15,15 @@ My email: chenhao915@mails.ucas.ac.cn
 
 ## Multi-Agent Path Finding
 * TODO
+
+## Citation
+
+If you find this repository useful, please cite our repo:
+```
+@misc{chen2022adversarial,
+  title={Adversarial Reinforcement Learning Papers},
+  author={Chen, Hao},
+  journal={https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers},
+  year={2022}
+}
+```
