@@ -1,7 +1,7 @@
 # Adversarial Reinforcement Learning Papers
 This is a collection of adversarial reinforcement learning papers. Each category is a potential start point for you to start your research. Some papers are listed more than once because they belong to multiple categories.
 
-For MARL papers with code and MARL resources, please refer to [MARL Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code) and [MARL Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection).
+For MARL papers with code and MARL resources, please refer to [Multi Agent Reinforcement Learning papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers), [MARL Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code) and [MARL Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection).
 
 I will continually update this repository and I welcome suggestions. (missing important papers, missing categories, invalid links, etc.) This is only a first draft so far and I'll add more resources in the next few months.
 
