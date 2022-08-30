@@ -1,6 +1,8 @@
 # Adversarial Reinforcement Learning Papers
 This is a collection of adversarial reinforcement learning papers. Each category is a potential start point for you to start your research. Some papers are listed more than once because they belong to multiple categories.
 
+Adversarial reinforcement learning is closely related to robust reinforcement learning and backdoor attacks in reinforcement learning. If you are looking for papers in adversarial reinforcement learning, you should also see papers related to robust reinforcement learning and backdoor attacks in reinforcement learning.
+
 For MARL resources, please refer to [Multi Agent Reinforcement Learning papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers), [MARL Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code) and [MARL Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection).
 
 I will continually update this repository and I welcome suggestions. (missing important papers, missing categories, invalid links, etc.) This is only a first draft so far and I'll add more resources in the next few months.
@@ -11,7 +13,10 @@ My email: chenhao915@mails.ucas.ac.cn
 
 
 ## Overview
-Adversarial reinforcement learning is closely related to robust reinforcement learning and backdoor attacks in reinforcement learning. If you are looking for papers in adversarial reinforcement learning, you should also see papers related to robust reinforcement learning and backdoor attacks in reinforcement learning.
+* [Single-Agent](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers#single-agent)
+* [Multi-Agent](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers#multi-agent)
+* [Adversarial Communication](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers#adversarial-communication)
+* [Benchmark](https://github.com/TimeBreaker/Adversarial-Reinforcement-Learning-Papers#benchmark)
 
 
 ## Single-Agent
