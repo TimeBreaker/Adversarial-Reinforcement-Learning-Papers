@@ -19,10 +19,10 @@ Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Robust Adversarial Reinforcement Learning](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)|Non-official implements on GitHub|ICML|2017
 [Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations](https://proceedings.neurips.cc/paper/2020/file/f0eb6568ea114ba6e293f903c34d7488-Paper.pdf)|https://github.com/chenhongge/StateAdvDRL|NIPS|2020
-[Robust Reinforcement Learning as a Stackelberg Game via Adaptively-Regularized Adversarial Training](https://arxiv.org/pdf/2202.09514)|||
-[Risk Averse Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1904.00511)|||
-[Robust Deep Reinforcement Learning with Adversarial Attacks](https://arxiv.org/pdf/1712.03632)|||
-[Robust Reinforcement Learning on State Observations with Learned Optimal Adversary](https://arxiv.org/pdf/2101.08452)|||
+[Robust Reinforcement Learning as a Stackelberg Game via Adaptively-Regularized Adversarial Training](https://arxiv.org/pdf/2202.09514)|||2022
+[Risk Averse Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1904.00511)||ICRA|2019
+[Robust Deep Reinforcement Learning with Adversarial Attacks](https://arxiv.org/pdf/1712.03632)|||2017
+[Robust Reinforcement Learning on State Observations with Learned Optimal Adversary](https://arxiv.org/pdf/2101.08452)|https://github.com/huanzhang12/ATLA_robust_RL|ICLR|2021
 [Exploring the Training Robustness of Distributional Reinforcement Learning against Noisy State Observations](https://arxiv.org/pdf/2109.08776)|||
 [RoMFAC: A Robust Mean-Field Actor-Critic Reinforcement Learning against Adversarial Perturbations on States](https://arxiv.org/pdf/2205.07229)|||
 [Adversary Agnostic Robust Deep Reinforcement Learning](https://arxiv.org/pdf/2008.06199)|||
