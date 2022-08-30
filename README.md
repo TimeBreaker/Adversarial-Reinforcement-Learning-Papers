@@ -17,7 +17,7 @@ Adversarial reinforcement learning is closely related to robust reinforcement le
 ## Single-Agent
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Robust Adversarial Reinforcement Learning](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)||ICML|2017
+[Robust Adversarial Reinforcement Learning](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)|Non-official implements on GitHub|ICML|2017
 [Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations](https://proceedings.neurips.cc/paper/2020/file/f0eb6568ea114ba6e293f903c34d7488-Paper.pdf)|||
 [Robust Reinforcement Learning as a Stackelberg Game via Adaptively-Regularized Adversarial Training](https://arxiv.org/pdf/2202.09514)|||
 [Risk Averse Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1904.00511)|||
