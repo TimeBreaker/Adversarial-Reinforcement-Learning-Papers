@@ -23,14 +23,14 @@ Paper|Code|Accepted at|Year
 [Risk Averse Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1904.00511)||ICRA|2019
 [Robust Deep Reinforcement Learning with Adversarial Attacks](https://arxiv.org/pdf/1712.03632)|||2017
 [Robust Reinforcement Learning on State Observations with Learned Optimal Adversary](https://arxiv.org/pdf/2101.08452)|https://github.com/huanzhang12/ATLA_robust_RL|ICLR|2021
-[Exploring the Training Robustness of Distributional Reinforcement Learning against Noisy State Observations](https://arxiv.org/pdf/2109.08776)|||
-[RoMFAC: A Robust Mean-Field Actor-Critic Reinforcement Learning against Adversarial Perturbations on States](https://arxiv.org/pdf/2205.07229)|||
-[Adversary Agnostic Robust Deep Reinforcement Learning](https://arxiv.org/pdf/2008.06199)|||
-[Learning to Cope with Adversarial Attacks](https://arxiv.org/pdf/1906.12061)|||
-[Adversarial Attack on Graph Structured Data](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)|||
-[Characterizing Attacks on Deep Reinforcement Learning](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)|||
-[Adversarial policies: Attacking deep reinforcement learning](https://arxiv.org/pdf/1905.10615)|||
-[Learning Robust Policy against Disturbance in Transition Dynamics via State-Conservative Policy Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/20686/20445)|||
+[Exploring the Training Robustness of Distributional Reinforcement Learning against Noisy State Observations](https://arxiv.org/pdf/2109.08776)|||2021
+[RoMFAC: A Robust Mean-Field Actor-Critic Reinforcement Learning against Adversarial Perturbations on States](https://arxiv.org/pdf/2205.07229)|||2022
+[Adversary Agnostic Robust Deep Reinforcement Learning](https://arxiv.org/pdf/2008.06199)||TNNLS|2021
+[Learning to Cope with Adversarial Attacks](https://arxiv.org/pdf/1906.12061)|||2019
+[Adversarial Attack on Graph Structured Data](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)||ICML|2018
+[Characterizing Attacks on Deep Reinforcement Learning](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)||AAMAS|2022
+[Adversarial policies: Attacking deep reinforcement learning](https://arxiv.org/pdf/1905.10615)|https://github.com/HumanCompatibleAI/adversarial-policies|ICLR|2020
+[Learning Robust Policy against Disturbance in Transition Dynamics via State-Conservative Policy Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/20686/20445)||AAAI|2022
 
 
 
