@@ -1,7 +1,7 @@
 # Adversarial Reinforcement Learning Papers
 This is a collection of adversarial reinforcement learning papers. Each category is a potential start point for you to start your research. Some papers are listed more than once because they belong to multiple categories.
 
-Adversarial reinforcement learning is closely related to robust reinforcement learning and backdoor attacks in reinforcement learning. If you are looking for papers in adversarial reinforcement learning, you should also see papers related to robust reinforcement learning and backdoor attacks in reinforcement learning.
+Adversarial reinforcement learning is closely related to robust reinforcement learning and attacks in reinforcement learning. If you are looking for papers in adversarial reinforcement learning, you should also see papers related to robust reinforcement learning and attacks in reinforcement learning.
 
 For MARL resources, please refer to [Multi Agent Reinforcement Learning papers](https://github.com/TimeBreaker/Multi-Agent-Reinforcement-Learning-papers), [MARL Papers with Code](https://github.com/TimeBreaker/MARL-papers-with-code) and [MARL Resources Collection](https://github.com/TimeBreaker/MARL-resources-collection).
 
@@ -40,7 +40,6 @@ Paper|Code|Accepted at|Year
 [Robust Reinforcement Learning using Adversarial Populations](https://arxiv.org/pdf/2008.01825)|||2020
 
 
-
 ## Multi-Agent
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
@@ -59,14 +58,10 @@ Paper|Code|Accepted at|Year
 [Certifiably Robust Policy Learning against Adversarial Communication in Multi-agent Systems](https://arxiv.org/pdf/2206.10158)|||2022
 
 
-
-
-
 ## Benchmark
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
 [Towards Comprehensive Testing on the Robustness of Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Guo_Towards_Comprehensive_Testing_on_the_Robustness_of_Cooperative_Multi-Agent_Reinforcement_CVPRW_2022_paper.pdf)||CVPR workshop|2022
-
 
 
 ## Citation
