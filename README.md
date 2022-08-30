@@ -38,7 +38,7 @@ Paper|Code|Accepted at|Year
 ## Multi-Agent
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Certifiably Robust Policy Learning against Adversarial Communication in Multi-agent Systems](https://arxiv.org/pdf/2206.10158)|||
+[Certifiably Robust Policy Learning against Adversarial Communication in Multi-agent Systems](https://arxiv.org/pdf/2206.10158)|||2022
 [Distributed Multi-Agent Deep Reinforcement Learning for Robust Coordination against Noise](https://arxiv.org/pdf/2205.09705)|||
 [On the Robustness of Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2003.03722)|||
 [Towards Comprehensive Testing on the Robustness of Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Guo_Towards_Comprehensive_Testing_on_the_Robustness_of_Cooperative_Multi-Agent_Reinforcement_CVPRW_2022_paper.pdf)|||
@@ -50,7 +50,7 @@ Paper|Code|Accepted at|Year
 ## Adversarial Communication
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Certifiably Robust Policy Learning against Adversarial Communication in Multi-agent Systems](https://arxiv.org/pdf/2206.10158)|||
+[Certifiably Robust Policy Learning against Adversarial Communication in Multi-agent Systems](https://arxiv.org/pdf/2206.10158)|||2022
 
 
 
@@ -59,7 +59,7 @@ Paper|Code|Accepted at|Year
 ## Benchmark
 Paper|Code|Accepted at|Year
 --|:--:|:--:|--:
-[Towards Comprehensive Testing on the Robustness of Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Guo_Towards_Comprehensive_Testing_on_the_Robustness_of_Cooperative_Multi-Agent_Reinforcement_CVPRW_2022_paper.pdf)|||
+[Towards Comprehensive Testing on the Robustness of Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Guo_Towards_Comprehensive_Testing_on_the_Robustness_of_Cooperative_Multi-Agent_Reinforcement_CVPRW_2022_paper.pdf)||CVPR workshop|2022
 
 
 
