@@ -15,7 +15,7 @@ Adversarial reinforcement learning is closely related to robust reinforcement le
 
 
 ## Single-Agent
-Paper|Paper|Code
+Paper|Code|Accepted at|Year
 --|:--:|--:
 * [Robust Adversarial Reinforcement Learning](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)
 * [Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations](https://proceedings.neurips.cc/paper/2020/file/f0eb6568ea114ba6e293f903c34d7488-Paper.pdf)
