@@ -36,7 +36,8 @@ Paper|Code|Accepted at|Year
 [Characterizing Attacks on Deep Reinforcement Learning](http://proceedings.mlr.press/v80/dai18b/dai18b.pdf)||AAMAS|2022
 [Adversarial policies: Attacking deep reinforcement learning](https://arxiv.org/pdf/1905.10615)|https://github.com/HumanCompatibleAI/adversarial-policies|ICLR|2020
 [Learning Robust Policy against Disturbance in Transition Dynamics via State-Conservative Policy Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/20686/20445)||AAAI|2022
-
+[On the Robustness of Safe Reinforcement Learning under Observational Perturbations](https://arxiv.org/pdf/2205.14691)|||2022
+[Robust Reinforcement Learning using Adversarial Populations](https://arxiv.org/pdf/2008.01825)|||2020
 
 
 
@@ -49,7 +50,7 @@ Paper|Code|Accepted at|Year
 [Towards Comprehensive Testing on the Robustness of Cooperative Multi-agent Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Guo_Towards_Comprehensive_Testing_on_the_Robustness_of_Cooperative_Multi-Agent_Reinforcement_CVPRW_2022_paper.pdf)||CVPR workshop|2022
 [Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient](https://ojs.aaai.org/index.php/AAAI/article/view/4327/4205)||AAAI|2019
 [Multi-agent Deep Reinforcement Learning with Extremely Noisy Observations](https://arxiv.org/pdf/1812.00922)||NIPS Deep Reinforcement Learning Workshop|2018
-
+[Policy Regularization via Noisy Advantage Values for Cooperative Multi-agent Actor-Critic methods](https://arxiv.org/pdf/2106.14334)|||2021
 
 
 ## Adversarial Communication
