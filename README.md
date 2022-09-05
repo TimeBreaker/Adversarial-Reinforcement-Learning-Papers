@@ -38,6 +38,7 @@ Paper|Code|Accepted at|Year
 [Learning Robust Policy against Disturbance in Transition Dynamics via State-Conservative Policy Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/20686/20445)||AAAI|2022
 [On the Robustness of Safe Reinforcement Learning under Observational Perturbations](https://arxiv.org/pdf/2205.14691)|||2022
 [Robust Reinforcement Learning using Adversarial Populations](https://arxiv.org/pdf/2008.01825)|||2020
+[Robust Deep Reinforcement Learning through Adversarial Loss](https://proceedings.neurips.cc/paper/2021/file/dbb422937d7ff56e049d61da730b3e11-Paper.pdf)|https://github.com/tuomaso/radial_rl_v2|NIPS|2021
 
 
 ## Multi-Agent
